@@ -175,7 +175,7 @@ public class Main {
 
             case 6 -> {
 
-                System.out.println("");
+                System.out.println("https://github.com/Fortes-dev/CRUDcomandasHibernate.git");
                 s.close();
                 System.exit(0);
 
