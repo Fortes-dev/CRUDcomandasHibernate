@@ -1,0 +1,4 @@
+models\Pedido.class
+models\Producto.class
+com\mycompany\crudcomandashibernate\HibernateUtil.class
+com\mycompany\crudcomandashibernate\Main.class
